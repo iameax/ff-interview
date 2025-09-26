@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
+  res.set('access-control-allow-origin', '*');
   res.send('Hello from Express.js server!');
 });
 
