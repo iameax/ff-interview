@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "type": "text",
+      "config": {
+        "text": "Hello, World!"
+      }
+    },
+    {
+      "id": "3",
+      "type": "image",
+      "config": {
+        "src": "https://images.unsplash.com/photo-1709285672636-181f824f52bd?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "alt": "Placeholder Image"
+      }
+    },
+    {
+      "id": "2",
+      "type": "button",
+      "config": {
+        "text": "Click Me"
+      }
+    }
+  ]
+}
